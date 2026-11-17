@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Projeto Backend - API de e-commerce
 
 Implementação em Node.js, Express, MySQL, Sequelize, JWT, bcrypt e Jest conforme o enunciado.
@@ -50,3 +51,6 @@ npm test
 - Imagens recebidas em base64 são gravadas em `media/`; a API as publica em `/media`.
 - Opções aceitam `shape` square/circle, `type` text/color e valores separados por vírgula no banco.
 - O README original tem pequenas inconsistências: exige token para POST/PUT/DELETE em geral, mas o cadastro e a emissão do token precisam ser públicos para inicializar o sistema; aqui foram mantidos públicos. O campo `option[id]` do filtro é exemplificado no enunciado, mas a filtragem avançada por opção ainda precisa de implementação adicional para contemplar esse caso específico. `fields` na busca de produtos também pode ser refinado conforme o formato de saída desejado.
+=======
+# projeto-getech-backend
+>>>>>>> bd20937172049d23bf57ae15c1cc0d1d4cef97d6
